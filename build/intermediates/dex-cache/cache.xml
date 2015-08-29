@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhaosc/github/android/AndroidLoadingRetryManager/app/build/intermediates/exploded-aar/AndroidLoadingRetryManager/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb53e5ebda4862f1bd0326a8ac81c377bace7336">
+        <dex dex="/Users/zhaosc/github/android/AndroidLoadingRetryManager/app/build/intermediates/pre-dexed/debug/classes-b48756a2dddfec5b9a097c53e942028af8b85aee.jar" />
+    </item>
+
+</items>
